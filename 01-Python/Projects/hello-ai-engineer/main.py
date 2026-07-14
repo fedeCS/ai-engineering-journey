@@ -1,4 +1,4 @@
-APP_NAME = "AI Engineer Journey"
+APP_NAME = "AI Engineer Journey<3"
 VERSION = "1.0.0"
 
 def print_banner():
